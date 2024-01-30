@@ -1,0 +1,5 @@
+instaloader
+discord_webhook
+rich
+requests
+base64
